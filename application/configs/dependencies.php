@@ -5,7 +5,7 @@ use Slim\Views\TwigExtension;
 use Illuminate\Database\Capsule\Manager;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
-use App\Libraries\CookieHelper;
+use Gemingcao\Helper\CookieHelper;
 use EasyWeChat\Factory;
 
 // view renderer
