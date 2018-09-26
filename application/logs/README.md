@@ -1,0 +1,1 @@
+Slim Framework应用程序的日志文件将写入此目录。
